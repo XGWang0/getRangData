@@ -2,10 +2,14 @@
 
 #### Env
 firefox : 60.1
+
 geckodriver: 0.24
+
 selenuim: 3.14
+
 python: 3.4.6
-beautifSoup
+
+beautifulSoup
 
 #### Install
 1. Download them to local
