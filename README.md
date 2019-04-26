@@ -14,7 +14,7 @@ beautifulSoup
 #### Install
 1. Download them to local
 2. Install requirement modules
-3. Install webdriver for firefox
+3. Install compatiable version of webdriver for firefox
 
 #### Desc
 This tool is used to fetch data range for html result
